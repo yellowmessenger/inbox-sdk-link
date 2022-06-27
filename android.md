@@ -1,3 +1,12 @@
+## v1.4.1 [[Download](https://firebasestorage.googleapis.com/v0/b/ym-mobile-app.appspot.com/o/android-agent-sdk%2FYellowInbox_v1.4.1.aar?alt=media&token=0eb11098-b2f0-4c81-b4c5-75f4a1807ef9)]
+### Whats New
+  - Now parent app observe the logout api call for success and failure
+  - Fixed issue with Xmpp reconnection on disconnect call
+  - Auto-reload Open chats while visiting Open chat page
+### Release Date
+  - 27 June 2022
+
+
 ## v1.4.0 [[Download](https://firebasestorage.googleapis.com/v0/b/ym-mobile-app.appspot.com/o/android-agent-sdk%2FYellowInbox_v1.4.0.aar?alt=media&token=e6d7495a-0f22-472d-bb6d-c150cbedd9c9)]
 ### Whats New
   - New api added to get all agent status (default and custom status)
