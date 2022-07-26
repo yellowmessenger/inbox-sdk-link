@@ -1,3 +1,10 @@
+## v1.4.2 [[Download](https://firebasestorage.googleapis.com/v0/b/ym-mobile-app.appspot.com/o/android-agent-sdk%2FYellowInbox_v1.4.2.aar?alt=media&token=9e83998c-ed1e-4050-854f-d4da6cd73bd3)]
+### Whats New
+  - Daywise Overview page data
+  - Fixed attachment oissue with whatapp channel
+### Release Date
+  - 26 July 2022
+
 ## v1.4.1 [[Download](https://firebasestorage.googleapis.com/v0/b/ym-mobile-app.appspot.com/o/android-agent-sdk%2FYellowInbox_v1.4.1.aar?alt=media&token=0eb11098-b2f0-4c81-b4c5-75f4a1807ef9)]
 ### Whats New
   - Now parent app can observe the logout api call for success and failure
