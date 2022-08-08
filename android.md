@@ -13,7 +13,7 @@
 ### Whats New
 
 - Daywise Overview page data
-- Fixed attachment oissue with whatapp channel
+- Fixed attachment issue with whatapp channel
 
 ### Release Date
 
