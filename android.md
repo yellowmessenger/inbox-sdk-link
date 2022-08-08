@@ -6,7 +6,7 @@
 
 ### Release Date
 
-- 04 Aug 2022
+- 04 August 2022
 
 ## v1.4.2 [[Download](https://firebasestorage.googleapis.com/v0/b/ym-mobile-app.appspot.com/o/android-agent-sdk%2FYellowInbox_v1.4.2.aar?alt=media&token=9e83998c-ed1e-4050-854f-d4da6cd73bd3)]
 
