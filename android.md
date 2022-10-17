@@ -1,3 +1,15 @@
+## v1.5.0 [[Download](https://firebasestorage.googleapis.com/v0/b/ym-mobile-app.appspot.com/o/android-agent-sdk%2FYellowInbox_v1.5.0.aar?alt=media&token=2accaa29-df81-47ed-9851-d9ad10e46482)]
+
+### Whats New
+
+- Fix for WhatsApp 24hr Window Policy
+- Added a new widget for Image caption
+- Added multi-region support for all regions
+
+### Release Date
+
+- 17 October 2022
+
 ## v1.4.3 [[Download](https://firebasestorage.googleapis.com/v0/b/ym-mobile-app.appspot.com/o/android-agent-sdk%2FYellowInbox_v1.4.3.aar?alt=media&token=9f944b7b-8215-402b-b607-a69a9f48e6da)]
 
 ### Whats New
