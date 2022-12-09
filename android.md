@@ -1,3 +1,11 @@
+## v1.5.1 [[Download](https://firebasestorage.googleapis.com/v0/b/ym-mobile-app.appspot.com/o/android-agent-sdk%2FYellowInbox_v1.5.1.aar?alt=media&token=17574159-3146-48dd-9aa1-ce639054b33b)]
+
+### Whats New
+
+- Music player crash fixed
+- Custom fields crash fixed
+- Agent group fragment crash fixed
+
 ## v1.5.0 [[Download](https://firebasestorage.googleapis.com/v0/b/ym-mobile-app.appspot.com/o/android-agent-sdk%2FYellowInbox_v1.5.0.aar?alt=media&token=2accaa29-df81-47ed-9851-d9ad10e46482)]
 
 ### Whats New
